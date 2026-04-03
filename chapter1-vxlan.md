@@ -1,4 +1,4 @@
-数据中心网络DCN-第一章VXLAN（MD版，可直接部署GitHub）
+数据中心网络DCN-第一章VXLAN
 
 核心知识点梳理：spine-leaf架构（clos）--overlay&underlay--BD--集中式&分布式网关vxlan--EVPN--SDN--业务链--堆叠--mclag---网络出口实现--VPC--虚拟化--云网一体--openstack
 
